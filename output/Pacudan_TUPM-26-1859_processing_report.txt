@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Pacudan
+Student ID: TUPM-26-1859
+Seed Digit: 9
+ID Sum: 31
+Verification Value: 226
+Dataset Sample Size: 81
+Valid Records: 81
+Average Global Active Power: 3.917
+JSON File: Pacudan_TUPM-26-1859_record.json
+Backup File: Pacudan_TUPM-26-1859_record.csv

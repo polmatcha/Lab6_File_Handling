@@ -1,0 +1,5 @@
+Student: Pacudan
+Student ID: TUPM-26-1859
+Seed digit: 9
+ID Sum: 31
+Verification Value: 226
