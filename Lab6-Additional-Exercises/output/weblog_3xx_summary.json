@@ -1,0 +1,41 @@
+{
+    "student_id": "TUPM-26-1859",
+    "source_file": "C:\\Users\\jullm\\Lab6_File_Handling_Pacudan\\Lab6-Additional-Exercises\\weblog.csv",
+    "records_processed": 1031,
+    "valid_records": 1031,
+    "invalid_records_skipped": 0,
+    "target_status_class": "3xx",
+    "records_in_target_class": 166,
+    "count_per_status_code": {
+        "302": 145,
+        "304": 21
+    },
+    "top_5_urls": [
+        {
+            "rank": 1,
+            "url": "GET / HTTP/1.1",
+            "count": 47
+        },
+        {
+            "rank": 2,
+            "url": "POST /process.php HTTP/1.1",
+            "count": 35
+        },
+        {
+            "rank": 3,
+            "url": "GET /contestproblem.php?name=RUET%20OJ%20Server%20Testing%20Contest HTTP/1.1",
+            "count": 34
+        },
+        {
+            "rank": 4,
+            "url": "GET /home.php HTTP/1.1",
+            "count": 9
+        },
+        {
+            "rank": 5,
+            "url": "GET /logout.php HTTP/1.1",
+            "count": 7
+        }
+    ],
+    "filtered_csv_file": "C:\\Users\\jullm\\Lab6_File_Handling_Pacudan\\Lab6-Additional-Exercises\\output\\weblog_3xx_filtered.csv"
+}
