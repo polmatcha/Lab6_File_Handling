@@ -1,0 +1,21 @@
+Target year: 2024
+Total records in dataset: 3000
+Incidents in target year: 299
+Invalid records: 0
+Count per attack type: {'Ransomware': 53, 'DDoS': 54, 'Phishing': 62, 'Malware': 43, 'Man-in-the-Middle': 47, 'SQL Injection': 40}
+Total financial loss (USD millions): 15434.29
+Average financial loss (USD millions): 51.62
+Five costliest incidents:
+  {'country': 'China', 'attack_type': 'DDoS', 'target_industry': 'Banking', 'financial_loss': 99.99}
+  {'country': 'Russia', 'attack_type': 'SQL Injection', 'target_industry': 'Education', 'financial_loss': 99.31}
+  {'country': 'Japan', 'attack_type': 'DDoS', 'target_industry': 'Healthcare', 'financial_loss': 99.28}
+  {'country': 'France', 'attack_type': 'Ransomware', 'target_industry': 'Retail', 'financial_loss': 99.03}
+  {'country': 'France', 'attack_type': 'Phishing', 'target_industry': 'Retail', 'financial_loss': 98.95}
+Filtered CSV file: output\Pacudan_TUPM-26-1859_incidents_filtered.csv
+JSON summary file: output\Pacudan_TUPM-26-1859_incidents_summary.json
+Backup verification: backup\Pacudan_TUPM-26-1859_incidents_summary.json | exists: True | hash match: True
+Report file: output\Pacudan_TUPM-26-1859_incident_report.txt
+
+=== FINAL OUTPUT ===
+299 incidents occurred in 2024, with a total loss of $15434.29 million.
+Report saved to Pacudan_TUPM-26-1859_incident_report.txt

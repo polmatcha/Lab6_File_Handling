@@ -1,0 +1,48 @@
+{
+    "target_year": 2024,
+    "total_records": 3000,
+    "incidents_in_target_year": 299,
+    "invalid_records": 0,
+    "count_per_attack_type": {
+        "Ransomware": 53,
+        "DDoS": 54,
+        "Phishing": 62,
+        "Malware": 43,
+        "Man-in-the-Middle": 47,
+        "SQL Injection": 40
+    },
+    "total_financial_loss_usd_millions": 15434.29,
+    "average_financial_loss_usd_millions": 51.62,
+    "five_costliest_incidents": [
+        {
+            "country": "China",
+            "attack_type": "DDoS",
+            "target_industry": "Banking",
+            "financial_loss": 99.99
+        },
+        {
+            "country": "Russia",
+            "attack_type": "SQL Injection",
+            "target_industry": "Education",
+            "financial_loss": 99.31
+        },
+        {
+            "country": "Japan",
+            "attack_type": "DDoS",
+            "target_industry": "Healthcare",
+            "financial_loss": 99.28
+        },
+        {
+            "country": "France",
+            "attack_type": "Ransomware",
+            "target_industry": "Retail",
+            "financial_loss": 99.03
+        },
+        {
+            "country": "France",
+            "attack_type": "Phishing",
+            "target_industry": "Retail",
+            "financial_loss": 98.95
+        }
+    ]
+}

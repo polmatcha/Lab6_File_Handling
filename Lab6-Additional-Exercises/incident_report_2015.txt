@@ -1,0 +1,24 @@
+Assessment Data:
+Target year: 2015
+Total records in dataset: 3000
+Incidents in target year: 277
+Count per attack type:
+    Malware: 51
+    DDoS: 50
+    Ransomware: 47
+    Phishing: 46
+    SQL Injection: 42
+    Man-in-the-Middle: 41
+Total financial loss (USD millions): 14510.21
+Average financial loss (USD millions): 52.38
+Five costliest incidents:
+    1. Ransomware | Germany | Telecommunications | $99.83M
+    2. Malware | Australia | Retail | $99.41M
+    3. Phishing | Australia | Banking | $99.2M
+    4. SQL Injection | USA | Education | $98.78M
+    5. Man-in-the-Middle | Russia | Education | $98.58M
+Filtered CSV file: incidents_2015_filtered.csv
+JSON summary file: top5_costliest_2015.json
+Backup verification: PASSED (SHA-256 match) -> top5_costliest_2015_backup.json
+Report file: incident_report_2015.txt
+Final Output: SUCCESS
